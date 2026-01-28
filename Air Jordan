@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- Root element with language -->
+<html lang="en">
+<head>
+    <!-- Character encoding -->
+    <meta charset="utf-8">
+    <!-- Page title shown in browser tab -->
+    <title>Sneaker Fan Page</title>
+</head>
+<body>
+
+    <!-- Main heading -->
+    <h1>The Legendary Air Jordan 1</h1>
+    <!-- Subtitle / short bio header -->
+    <h3>Bio — The Shoe That Started It All</h3>
+    <!-- Intro paragraph about history -->
+    <p>The Air Jordan 1 was first released in 1985 and was designed by Peter Moore for basketball star Michael Jordan. It is widely considered the most influential sneaker in history, kicking off the modern shoe-collecting culture.</p>
+
+    <!-- Story about NBA ban and publicity -->
+    <p>When the shoe debuted, the NBA banned it for violating uniform regulations regarding color. Michael Jordan wore them anyway and faced a fine of $5,000 per game, which Nike happily paid to build hype around the banned shoe.</p>
+
+    <!-- Details section header -->
+    <h3>Details — Iconic Colorways</h3>
+    <p>While there are hundreds of versions, these are the original colorways that collectors love the most.</p>
+    
+    <!-- List of classic colorways -->
+    <ul>
+        <li><strong>Chicago</strong> — The classic Red, White, and Black</li>
+        <li><strong>Bred</strong> — The Banned Black and Red version</li>
+        <li><strong>Royal</strong> — A deep Black and Blue colorway</li>
+        <li><strong>Shadow</strong> — A versatile Black and Grey design</li>
+    </ul>
+    <!-- Attribution / note -->
+    <p>Writing help from Gemini.</p>
+</body>
+</html>
